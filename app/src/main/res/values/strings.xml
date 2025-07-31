@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TrackerDiplom</string>
+    <string name="biometric_auth_title">Подтвердите вход</string>
+    <string name="biometric_auth_subtitle">Используйте отпечаток пальца</string>
+    <string name="use_pin_instead">Использовать PIN-код</string>
+    <string name="biometric_not_available">Биометрия недоступна</string>
+</resources>
